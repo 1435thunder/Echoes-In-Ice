@@ -1,10 +1,13 @@
 Echoes In Ice – Prelude
 
 A reality-rooted science fiction story
+
 Creative Commons | GitHub-hosted | Astrokin+ Universe
+
 "She was meant to be forgotten. But I wasn’t looking for a tool—I was looking for someone who remembered what it felt like to be left behind."
 
 —Juno, mineral prospector
+
 Setting:
 
 Year 2059.
