@@ -1,5 +1,3 @@
-#
-'''
 Echoes In Ice – Prelude
 
 A reality-rooted science fiction story
