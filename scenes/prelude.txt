@@ -1,3 +1,5 @@
+#
+'''
 Echoes In Ice – Prelude
 
 A reality-rooted science fiction story
@@ -50,3 +52,5 @@ License: Creative Commons BY-NC-SA 4.0
 Author: Project BOSS
 Universe: Astrokin+
 Repository: github.com/project-boss/echoes-in-ice
+'''
+
