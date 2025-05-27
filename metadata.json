@@ -1,0 +1,14 @@
+{
+  "title": "Echoes In Ice",
+  "author": "Project BOSS",
+  "license": "CC BY-NC-SA 4.0",
+  "image_usage": "Images generated using home SD tools",
+  "scenes": [
+    {
+      "id": "scene_prelude",
+      "title": "Prelude: Echoes in Ice",
+      "image": "images/saturn_glacial_scene.png",
+      "file": "scenes/prelude.txt"
+    }
+  ]
+}
