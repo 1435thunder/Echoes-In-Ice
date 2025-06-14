@@ -1,0 +1,52 @@
+# Blender auto backups
+*.blend1
+*.blend2
+
+# Blender temp files
+*.btmp
+*.bphys
+*.vdb
+*.bgeo
+*.bik
+*.exr
+*.tmp
+
+# Cached simulation & bake folders
+/cache/
+**/__pycache__/
+**/.cache/
+**/cache/
+
+# Preview and render outputs
+/previews/
+*.mp4
+*.mov
+*.avi
+*.flv
+*.mkv
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.tiff
+
+# Audio assets (optional)
+*.wav
+*.mp3
+*.ogg
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.bak
+*.old
+
+# Auto-generated scene builds (optional)
+scenes/builds/*.blend
